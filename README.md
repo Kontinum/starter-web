@@ -11,6 +11,7 @@ The main purpoise is to provide a simple example.
 On any web server.
 
 ##How To Contribute
+Please fork this repository
 
 ###Copyright
 
