@@ -14,4 +14,4 @@ On any web server.
 
 ###Copyright
 
-2016. Git
+2016. Git Dejan
