@@ -11,3 +11,7 @@ The main purpoise is to provide a simple example.
 On any web server.
 
 ##How To Contribute
+
+###Copyright
+
+2016. Git
