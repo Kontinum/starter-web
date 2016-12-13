@@ -3,7 +3,7 @@
 	Copyright 2016. Gitt
 -->
 <head>
-	<title>An example website - I am in the new branch</title>
+	<title>A great website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -17,11 +17,11 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Just some content
+			Just some content hehe :)
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Company 2014</p>
+		<p>&copy; Dejan Git Company 2014</p>
 	</footer>
 </body>
 </html>
