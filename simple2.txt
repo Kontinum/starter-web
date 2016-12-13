@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<!-- 
+	Copyright 2016. Gitt
+-->
 <head>
 	<title>An example website - I am in the new branch</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
