@@ -11,6 +11,7 @@
 			padding-top:250;
 			padding-bottom: 20px;
 			border:0;
+			animation:none;
 		}
 	</style>
 	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
