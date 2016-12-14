@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- 
-	Copyright 2016. Gitt
+	Copyright 2016. Adding changes before rebase conflict
 -->
 <head>
 	<title>A very respectfull website</title>
