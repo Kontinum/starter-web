@@ -11,7 +11,8 @@ The main purpoise is to provide a simple example.
 On any web server.
 
 ##How To Contribute
-Please fork this repository and do pull request
+Please fork this repository and do pull
+Adding a line for rebasing example
 
 ###Copyright
 
