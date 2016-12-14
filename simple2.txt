@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- 
-	Adding some lines
+	Copyright 2016. Adding changes before rebase conflict
 -->
 <head>
 	<title>A very respectfull website</title>
@@ -17,12 +17,11 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Oooo yeas
+			Just some content
 		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; Dejan company 2016</p>
-		Hahahaahha
 	</footer>
 </body>
 </html>
