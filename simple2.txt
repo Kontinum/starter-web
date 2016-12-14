@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!-- 
 	Copyright 2016. Adding changes before rebase conflict
-	big trouble :D Ading more changesssss!
+	
 -->
 <head>
 	<title>A very respectfull website</title>
@@ -16,7 +16,7 @@
 </head>
 <body>
 	<main class="container">
-	<!-- Content Goes Here -->
+	<!-- Content Goes Here  oleee-->
 		<p>
 			Just some content
 		</p>
