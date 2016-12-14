@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <!-- 
 	Copyright 2016. Adding changes before rebase conflict
-	big trouble :D
+	big trouble :D Ading more changesssss!
 -->
 <head>
 	<title>A very respectfull website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
-			padding-top: 50px;
+			padding-top:2500;
 			padding-bottom: 20px;
 		}
 	</style>
@@ -23,6 +23,7 @@
 	</main>
 	<footer class="container">
 		<p>&copy; Dejan company 2016</p>
+		Agaiiin canges for trouble
 	</footer>
 </body>
 </html>
