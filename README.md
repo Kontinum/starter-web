@@ -16,4 +16,4 @@ Adding a line for rebasing example, mor echanges from myfeature branch
 
 ###Copyright
 
-2016. Git Dejan
+2016. Git Dejan. All rights reserved
