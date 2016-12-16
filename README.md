@@ -12,7 +12,7 @@ On any web server.
 
 ##How To Contribute
 Please fork this repository and do pull
-Adding a line for rebasing example, mor echanges from myfeature branch
+Adding a line for rebasing example, mor echanges from myfeature branch. Stash example.
 
 ###Copyright
 
