@@ -4,7 +4,7 @@
 	
 -->
 <head>
-	<title>A very respectfull website and change</title>
+	<title>Title for tagging examples</title>
 	<link rel="javascript" href="css/bootstrap.min.css">
 	<style>
 		body {
